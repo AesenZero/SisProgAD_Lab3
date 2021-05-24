@@ -1,0 +1,1 @@
+public enum textCase {numeric, intNum, floatNum, hexNum, str, chr, der, comm, commBig, reserved, op, punc, ind, err, startCheck, endCheck}
